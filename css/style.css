@@ -51,7 +51,7 @@ h4.indifferent{
 .dubious {
   background-color: #dd4444;
   box-shadow:  -1px 1px #9d1d1d, -2px 2px #9d1d1d, -3px 3px #9d1d1d, -4px 4px #9d1d1d, -5px 5px #9d1d1d;
-margin: 50px;
+margin-bottom: 40px;
 }
 }
 h4.dubious{
